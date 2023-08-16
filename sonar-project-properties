@@ -1,0 +1,9 @@
+sonar.verbose=true
+sonar.organization=tejassl91
+sonar.projectKey=tejassl91-key_twitter-trend
+sonar.projectName=twitter-trendt
+sonar.language=java
+sonar.sourceEncoding=UTF-8
+sonar.sources=.
+sonar.java.binaries=target/classes
+sonar.coverage.jacoco.xmlReportPaths=target/site/jacoco/jacoco.xml
